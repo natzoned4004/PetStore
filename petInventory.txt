@@ -1,0 +1,26 @@
+25
+Aardvark 3
+Bear 4
+Chimpanzee 12
+Dolphin 14
+Eagle 11
+Elephant 4
+Fox 13
+Gorilla 5
+Human 1000000000
+Ibis 63
+Jaguar 54
+Kangaroo 23
+Lion 6
+Monkey 12
+Nightingale 1
+Otter 14
+Parrot 123
+Quail 42
+Rabbit 35
+Seal 39
+Tasmanian-Devil 65
+Vulture 50
+Wolverine 94
+Yak 3
+Zebra 33
