@@ -1,8 +1,7 @@
 /*
  * Noah Alonso-Torres
- * HW 9 Bubblesort
- * CS101 Ames
- * 
+ * PetStore Sort
+ * PetStore Class
  */
 
 
@@ -19,8 +18,8 @@ public class PetStore {
 		Scanner fileScanner = null;
 		try {
 			fileScanner = new Scanner(new File(filename));
-		}  //Catches your error and terminates the program
-		//wrong file name, dont have access, ect
+		}  // Catches your error and terminates the program
+		   // wrong file name, dont have access, ect
 		catch (FileNotFoundException e) {
 			System.out.println(e);
 			System.exit(1);
@@ -125,10 +124,6 @@ public class PetStore {
 	}
 
 	public String toString() {
-		//String name = Arrays.toString(petArray).replace(", ", "\n").replace("[", "").replace("]", "");
-		//String friendly = size + "\n" + name;
-		//return friendly;
-		//System.out.println(petArray.toString());
 		String legit = "fail00";
 		String temp ="";
 

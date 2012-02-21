@@ -1,8 +1,7 @@
 /*
  * Noah Alonso-Torres
- * HW 9 Bubblesort
- * CS101 Ames
- * 
+ * PetStore Sort
+ * Pet Class
  */
 
 

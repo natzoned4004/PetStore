@@ -1,8 +1,7 @@
 /*
  * Noah Alonso-Torres
- * HW 9 Bubblesort
- * CS101 Ames
- * Slightly modified
+ * PetStore Sort
+ * SortTest Class
  */
 
 
@@ -22,7 +21,7 @@ public class SortTest implements ActionListener{
 	private JButton sortByCountAscendingButton = new JButton("Sort by Count Ascending");
 	private JButton sortByCountDescendingButton = new JButton("Sort by Count Descending");
     private JButton writeOutputButton = new JButton("Write Output");
-    //Wanted more room
+    // Wanted more room
 	private JTextArea reportArea = new JTextArea(30,25);
 	
 	private PetStore myStore = null;
